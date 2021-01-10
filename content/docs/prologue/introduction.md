@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+lead: "The Electricians Bible was created as a learning tool for trainee electricians. It is designed to be basic and give you an understanding of electrical installations. Please consult a professional before carrying out any electrical work yourself."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
